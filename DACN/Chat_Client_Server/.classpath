@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="chatroom/" kind="src" path="ChatRoom/src"/>
+	<classpathentry kind="src" path="ChatRoom/src/chatroom"/>
+	<classpathentry excluding="chatroomserver/" kind="src" path="ChatRoomServer1/src"/>
+	<classpathentry kind="src" path="ChatRoomServer1/src/chatroomserver"/>
+	<classpathentry kind="lib" path="ChatRoom/dist/ChatRoom.jar"/>
+	<classpathentry kind="lib" path="ChatRoomServer1/dist/ChatRoomServer.jar"/>
+	<classpathentry kind="output" path="ChatRoom/build/classes"/>
+</classpath>
